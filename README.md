@@ -1,4 +1,4 @@
-# Heart-Failure-Prediction
+# Cardiac Risk Prediction using Machine Learning
 
 This project uses Python
 
@@ -8,7 +8,7 @@ NumPy Pandas matplotlib scikit-learn
 
 We used Jupyter Notebook to run and execute
 
-# Project : Heart Failure Prediction
+# Project : Cardiac Risk Prediction using Machine Learning
 # Description :
 We have used Machine learning which is applied to medical records can be useful to predict the survival of a patient, highlighting patterns and even ranking the features to understand which are risk factors, possibly undetectable by doctors.
 In this notebook the analisys will be done starting from an EDA to understand the dataset and applying some preprocessing to be able to learn properly from it.
