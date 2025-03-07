@@ -1,15 +1,13 @@
 # Cardiac Risk Prediction using Machine Learning
+## Overview :
+This project focuses on predicting cardiac risks using Machine Learning techniques applied to medical records. By analyzing patient data, the project aims to highlight patterns, rank risk factors, and predict survival rates for individuals who have experienced heart failure. The insights generated can assist doctors in identifying key risk factors that may not be immediately apparent through traditional analysis.
 
-This project uses Python
-
-Python libraries used are:
-
-NumPy Pandas matplotlib scikit-learn
-
-We used Jupyter Notebook to run and execute
-
-# Project : Cardiac Risk Prediction using Machine Learning
-# Description :
-We have used Machine learning which is applied to medical records can be useful to predict the survival of a patient, highlighting patterns and even ranking the features to understand which are risk factors, possibly undetectable by doctors.
-In this notebook the analisys will be done starting from an EDA to understand the dataset and applying some preprocessing to be able to learn properly from it.
-Then will follow a number of machine learning models trained on the preprocessed dataset, aiming to predict the survival of patients that suffered HF.
+# Features :
+- Exploratory Data Analysis (EDA):
+Initial analysis to understand the dataset, highlight trends, and identify correlations.
+- Data Preprocessing:
+Techniques like handling missing values, scaling, and feature selection to prepare the dataset for effective learning.
+- Machine Learning Models:
+Various algorithms trained on preprocessed data to predict survival outcomes.
+- Insights Generation:
+Identification of significant risk factors affecting cardiac health and patient survival.
